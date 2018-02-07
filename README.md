@@ -3,5 +3,5 @@ Just a little toy script to classify NDAI destinations.
 
 # Authors
 
-  + Niamh
+  + Niamh Chinn Oir 
   
